@@ -9,6 +9,11 @@ A community-based artificial intelligence prompt sharing application, that allow
 3. Edit and delete prompts.
 4. Sign in functionality using Google Auth. 
 
+## Technologies 
+1. NextJS (Frontend and Backend)
+2. MongoDB Database
+3. Google Cloud (Authentication)
+
 ## Planend Features
 1. Likes / Dislikes system.
 2. Alternate pages for top prompts.
