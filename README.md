@@ -2,6 +2,7 @@ A community-based artificial intelligence prompt sharing application, that allow
 
 ## Preview
 
+https://github.com/nathanchess/promptify/assets/59159552/532c0b30-a1c5-4aa0-ac4d-76e5c8c4930d
 
 ## Features
 1. User interface for prompts and personal profile pages.
