@@ -9,11 +9,13 @@ https://github.com/nathanchess/promptify/assets/59159552/532c0b30-a1c5-4aa0-ac4d
 2. Search component in home page to sort through prompts.
 3. Edit and delete prompts.
 4. Sign in functionality using Google Auth. 
+5. SEO optimized
 
 ## Technologies 
 1. NextJS (Frontend and Backend)
 2. MongoDB Database
 3. Google Cloud (Authentication)
+4. Tailwind CSS
 
 ## Planend Features
 1. Likes / Dislikes system.
