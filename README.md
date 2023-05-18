@@ -17,7 +17,7 @@ https://github.com/nathanchess/promptify/assets/59159552/532c0b30-a1c5-4aa0-ac4d
 3. Google Cloud (Authentication)
 4. Tailwind CSS
 
-## Planend Features
+## Planned Features
 1. Likes / Dislikes system.
 2. Alternate pages for top prompts.
 3. Blog posts for community to stay engaged with artificiall intelligence prompting.
